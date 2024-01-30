@@ -1,0 +1,166 @@
+/* header */
+.logo img{
+    margin-left: 120px;
+    width: 80px;
+    height: 25px;
+
+}
+h4{
+    margin-left: 120px;
+    font-family: sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    
+}
+.lines{
+    background-color: #f6eded;
+   
+}
+.brands{
+    background-color: #f6eded;
+    
+}
+.header .search-container{
+    background-color: white;
+    margin-left: 250px;
+    width: 600px;
+    height: 30px;
+    max-width: 750px;
+    border-radius: 3px;
+    display: flex;
+    align-items: center;
+    padding: 7px;
+}
+.fa-location-dot{
+     color: rgb(180, 117, 117);
+     padding: 8px 2px;
+}
+.fa-caret-down{
+     color: #000;
+}
+.detecionlocation input{
+    border: none;
+    font-size: 15px;
+    width: 90px;
+    outline: none;
+}
+.line{
+    padding: 7px;
+}
+.search-item i{
+    color: #8e8b8b;
+    font-size: 15px;
+}
+.search-item input{
+    border: none;
+    width: 300px;
+    font-size: 15px;
+    outline: none;
+
+}
+.login ul li{
+     
+    display: inline;
+    list-style-type: none;
+    font-family: sans-serif;
+    font-size: 15px;
+    font-weight: 10px;
+    color: #858383;
+    
+}
+.footer{
+    margin-left: 100px;
+    width:850px
+} 
+
+
+/* footer */
+ /* .container{
+    margin-left: 100px;
+}
+.flagImage{
+
+    width: 15px;
+    height: 12px;
+
+}
+.flagImage img{
+    width: 100%;
+    height: 100%;
+}
+.footeroptionsection{
+    display: flex;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 5px;
+    align-items: center;
+}
+.footeroptionsection:first-child{
+    margin-right: 30px;
+}
+.footeroptionsection select{
+    width: 80px;
+    border: none;
+}
+.footerlanguagecountry{
+    display: flex;
+}
+.footer-top{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-right: 95px;
+}
+.footer-logo{
+    width: 130px;
+    margin-left: 25px;
+}
+.footer-logo img{
+    width: 100%;
+}
+
+.footer-menu{
+    margin-right: 115px;
+    display: flex;
+    justify-content:space-around;
+}
+.downloadApp{
+    margin-right: 0x;
+    width: 100px;
+    display: block;
+}
+.downloadApp img{
+    width: 100%;
+}
+.footer-menu ul{
+    padding: 0;
+    list-style: none;
+}
+.footer-menu a{
+    color: rgb(128, 121, 121);
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: 200;
+    line-height: 1.2;
+}
+.footer-menu-item h4{
+    color: #433f3f;
+    font-family: sans-serif;
+    font-weight: 500;
+    letter-spacing: 1px;
+    font-size: 12px;
+    
+}
+.footer-menu-item ul li a {
+    margin-left: 70px;
+    font-family: sans-serif;
+    font-size: 12px;
+    font-weight: 300;
+}
+.socialMediaLinks{
+    margin-bottom: 10px;
+    font-size: 18px;
+}
+.horizontalLine{
+    padding: 5px ;
+} */
